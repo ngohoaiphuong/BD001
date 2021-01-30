@@ -1,1 +1,1 @@
-puts 'Hello BD001'
+puts "Hello BD001"
